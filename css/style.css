@@ -7,7 +7,7 @@ body {
     color: #ff3c00;
     text-shadow: 0 0 3px #ff3c00;
     background: #0a0909;
-    font-family: cursor, monospace;
+    font-family: "Ubuntu Mono", monospace;
     overflow-x: hidden;
 }
 ::selection {
@@ -63,7 +63,7 @@ b {
 #liner::before {
     color: #ff3c00;
     content: "visitor@pleasedontbite.me:~$";
-    font-family: cursor, monospace;
+    font-family: "Ubuntu Mono", monospace;
 }
 
 @keyframes show {
