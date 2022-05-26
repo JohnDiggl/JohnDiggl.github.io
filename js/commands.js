@@ -2,7 +2,7 @@
 
 help = [
     "<br>",
-    '<span class="command">whoareyou</span>     Where am I?',
+    '<span class="command">whereami</span>     Where am I?',
     '<span class="command">whoareyou</span>     Who are you?',
     '<span class="command">whoami</span>        Who ami I?',
     '<span class="command">help</span>          Show all commands',
